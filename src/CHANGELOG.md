@@ -1,5 +1,11 @@
 # viem
 
+## 2.38.7
+
+### Patch Changes
+
+- [#4069](https://github.com/wevm/viem/pull/4069) [`a7cbfd5977e63059e110693ff895dfd1864ad921`](https://github.com/wevm/viem/commit/a7cbfd5977e63059e110693ff895dfd1864ad921) Thanks [@bearpong](https://github.com/bearpong)! - Added `url` property to request errors.
+
 ## 2.38.6
 
 ### Patch Changes
