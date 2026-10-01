@@ -1,5 +1,11 @@
 # viem
 
+## 2.57.3
+
+### Patch Changes
+
+- [`78f970deada3a30341f5f3438b48bbac088378e8`](https://github.com/wevm/viem/commit/78f970deada3a30341f5f3438b48bbac088378e8) Thanks [@bearpong](https://github.com/bearpong)! - Fixed `getContractError` throwing when an error cause is not an object.
+
 ## 2.57.2
 
 ### Patch Changes
